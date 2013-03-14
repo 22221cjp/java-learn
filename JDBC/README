@@ -1,0 +1,1 @@
+这个小项目主要记录jdbc的一些操作，包括PreparedStatement，可滚动的结果集，jdbc调用存储过程，jdbc事务等
